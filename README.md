@@ -1,1 +1,1 @@
-# using simple linear regression, I've tried to predict house prices in Monroe Twp, USA.
+# Using simple linear regression and multivariate regression, I've tried to predict house prices in Monroe Twp, USA.
